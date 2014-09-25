@@ -1,0 +1,5 @@
+An LD_PRELOAD library that cleans exported function definitions from the environment.
+
+Based on RedHat's bash_ld_preload.c:
+
+https://access.redhat.com/articles/1200223
